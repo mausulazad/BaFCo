@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment / secrets
+.env
+.venv/
+venv/
+
+# Dataset (downloaded from Hugging Face, not versioned)
+bafco_data/
+
+# Pipeline outputs
+predictions/
+evaluations/
+batchDetails/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
