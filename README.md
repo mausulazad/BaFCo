@@ -2,7 +2,7 @@
 
 ## ECCV 2026
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/XXXX.XXXXX) [![Dataset](https://img.shields.io/badge/Dataset-555?logo=huggingface&logoColor=FFD21E)](https://huggingface.co/datasets/Mausul/bafco)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2607.05614) [![Dataset](https://img.shields.io/badge/Dataset-555?logo=huggingface&logoColor=FFD21E)](https://huggingface.co/datasets/Mausul/bafco)
 
 > 📋 **TL;DR:** BaFCo is the first benchmark for **Bangla form comprehension**:
 > 200 complex multi-page government forms (316 pages, 15 domains) annotated with
