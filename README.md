@@ -126,13 +126,12 @@ Code: MIT (see `LICENSE`), Dataset: CC-BY-NC-4.0 (on Hugging Face)
 ## Citation
 
 ```bibtex
-@misc{azad2026bafcodocumentunderstandingbenchmark,
-      title={BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension}, 
-      author={Abu Tyeb Azad and Ishita Sur Apan and Fahim Ahmed and Sumaiya Karim Katha and Ezharuddin Jubaer and Armun Alam and Pranjal Kumar Nandi and Amin Ahsan Ali and Aman Chadha and Md Mofijul Islam and AKM Mahbubur Rahman},
-      year={2026},
-      eprint={2607.05614},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2607.05614}, 
+@inproceedings{azad2026bafco,
+  title={BaFCo: A Document Understanding Benchmark for Complex Ba ngla F orm Co mprehension},
+  author={Azad, Abu Tyeb and Apan, Ishita Sur and Ahmed, Fahim and Katha, Sumaiya Karim and Jubaer, Ezharuddin and Alam, Armun and Nandi, Pranjal Kumar and Ali, Amin Ahsan and Chadha, Aman and Islam, Md Mofijul and others},
+  booktitle={European Conference on Computer Vision},
+  pages={402--420},
+  year={2026},
+  organization={Springer}
 }
 ```
